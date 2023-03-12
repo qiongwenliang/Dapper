@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj": {}
+  },
+  "projects": {
+    "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
+        "projectName": "DapperTutorialCore",
+        "projectPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
+        "packagesPath": "C:\\Users\\cater_yrqwkk6\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cater_yrqwkk6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\DapperTutorialInfrasturcture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\DapperTutorialInfrasturcture.csproj",
+        "projectName": "DapperTutorialInfrasturcture",
+        "projectPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\DapperTutorialInfrasturcture.csproj",
+        "packagesPath": "C:\\Users\\cater_yrqwkk6\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cater_yrqwkk6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj": {
+                "projectPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
+        "projectName": "DapperTutorialPresentation",
+        "projectPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
+        "packagesPath": "C:\\Users\\cater_yrqwkk6\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialPresentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cater_yrqwkk6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\DapperTutorialInfrasturcture.csproj": {
+                "projectPath": "F:\\ASP.NetProjects\\DapperTutorial\\DapperTutorialInfrasturcture\\DapperTutorialInfrasturcture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

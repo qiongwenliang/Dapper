@@ -1,0 +1,12 @@
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\bin\Debug\net6.0\DapperTutorialCore.deps.json
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\bin\Debug\net6.0\DapperTutorialCore.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\bin\Debug\net6.0\DapperTutorialCore.pdb
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.csproj.AssemblyReference.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.AssemblyInfoInputs.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.AssemblyInfo.cs
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.csproj.CoreCompileInputs.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\refint\DapperTutorialCore.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\DapperTutorialCore.pdb
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialCore\obj\Debug\net6.0\ref\DapperTutorialCore.dll

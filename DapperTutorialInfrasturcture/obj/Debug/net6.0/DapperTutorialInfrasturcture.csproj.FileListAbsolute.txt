@@ -1,0 +1,15 @@
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\bin\Debug\net6.0\DapperTutorialInfrasturcture.deps.json
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\bin\Debug\net6.0\DapperTutorialInfrasturcture.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\bin\Debug\net6.0\DapperTutorialInfrasturcture.pdb
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\bin\Debug\net6.0\DapperTutorialCore.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\bin\Debug\net6.0\DapperTutorialCore.pdb
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.csproj.AssemblyReference.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.AssemblyInfoInputs.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.AssemblyInfo.cs
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.csproj.CoreCompileInputs.cache
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.csproj.CopyComplete
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\refint\DapperTutorialInfrasturcture.dll
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\DapperTutorialInfrasturcture.pdb
+F:\ASP.NetProjects\DapperTutorial\DapperTutorialInfrasturcture\obj\Debug\net6.0\ref\DapperTutorialInfrasturcture.dll
